@@ -1,4 +1,3 @@
-# rep-1
-testing
+# A front page
+A front page created only with HTML and CSS.
 
-Now testing the pull command..
